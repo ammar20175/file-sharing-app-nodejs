@@ -1,0 +1,12 @@
+MONGO_CONNECTION_URL =<your mongodb connection url>
+
+APP_BASE_URL=<localhost>
+
+SMTP_HOST= <smtp host> 
+
+SMTP_PORT=<smpt port>
+     
+MAIL_USER=<your reg email>
+MAIL_PASSWORD=<your acc password>
+
+ALLOWED_CLIENTS=<corns allowed clients>
